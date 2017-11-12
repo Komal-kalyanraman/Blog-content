@@ -1,5 +1,5 @@
 Prolific ic drivers has not been detected. This can be noticed by having an exclamation mark beside the COM port when checked in device
-manager. This is due to the duiplicate prolific ic produced by china and their support being removed. Follow this link to aoid this error.
-I faced this issue during with my Arduino board.
+manager. This is due to the duiplicate prolific ic produced by china and their support being removed. Follow this link to aoid this 
+error. I faced this issue during with my Arduino board.
 
 http://www.totalcardiagnostics.com/support/Knowledgebase/Article/View/92/20/prolific-usb-to-serial-fix-official-solution-to-code-10-error
